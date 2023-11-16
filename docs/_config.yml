@@ -5,7 +5,7 @@ light: false
 description: 'TECNOLOGIA PARA TODOS'
 acronym: TPT
 exclude: [ '_drafts/2021/', '_drafts/2020' ]
-baseurl: '/asignatura-website-alejandro-rodriguez-fonte-0100774252/' # '/introduccion'
+baseurl:  # '/introduccion'
 #url: https://ull-mfp-aet-2223.github.io/ull-mfp-aet-2223.github.io
 guia_docente: https://www.ull.es/apps/guias/guias/view_guide_course/2223/125771143
 show_downloads: false
@@ -49,4 +49,3 @@ temas:
 #  hover: 'google-app-scripts' 
 plugins:
   - jemoji
-
